@@ -59,7 +59,3 @@ An interactive web application for Market Basket Analysis (MBA) designed to unco
 
 ---
 
-## ⚙️ **How to Run**
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
